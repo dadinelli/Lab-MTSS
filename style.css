@@ -4,3 +4,10 @@ body{
     text-align: center;
     font-family: "Lexend", Roboto, sans-serif;
 }
+
+#contatti{
+    margin: 10;
+    background-color: darkcyan;
+    text-align: center;
+    font-family: "Lexend", Roboto, sans-serif;
+}
