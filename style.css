@@ -1,13 +1,33 @@
 body{
-    margin: 0;
+    margin: auto;
     background-color: darkcyan;
-    text-align: center;
+    font-size: 100%;
     font-family: "Lexend", Roboto, sans-serif;
+}
+
+header{
+    padding: 0cm 1cm;
+    text-align: center;
+    margin: 1em;
 }
 
 #contatti{
     margin: 10;
     background-color: darkcyan;
-    text-align: center;
     font-family: "Lexend", Roboto, sans-serif;
+}
+
+#breadcrumb{
+    background-color: darkslategrey;
+}
+
+#menu{
+    float: left;
+    width: 0;
+}
+
+main{
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
 }
