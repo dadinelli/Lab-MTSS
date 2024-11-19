@@ -1,3 +1,3 @@
-Avaible website for this repoi -> https://dadinelli.github.io/Lab-MTSS/
+Avaible website for this repo -> https://dadinelli.github.io/Lab-MTSS/
 
 Hi!
